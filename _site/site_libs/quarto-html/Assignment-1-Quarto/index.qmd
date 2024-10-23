@@ -1,0 +1,11 @@
+---
+title: "GOKAY AYDOGAN"
+about:
+  template: jolla
+---
+
+### ![](images/photo.png)
+
+Hello! This is Gokay Aydogan's webpage.
+
+Please stay tuned to follow my work!

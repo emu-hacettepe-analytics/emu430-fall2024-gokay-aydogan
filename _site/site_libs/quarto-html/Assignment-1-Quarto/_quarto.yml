@@ -1,0 +1,50 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Gokay Aydogan's Analytics Lab"
+  navbar:
+    search: true
+    left:
+      - text: Home
+        href: index.qmd
+      - text: About Me
+        href: about.qmd
+      - text: "EMU430 Coursework"
+        menu:
+          - text: Assignments
+            href: assignments.qmd
+          - text: Project
+            href: project.qmd
+    right: 
+      - icon: github
+        href: https://github.com/gokay-aydogan
+      - icon: linkedin
+        href: https://linkedin.com/in/gokay731
+        
+  sidebar:
+    - title: "Assignments"
+      style: "docked"
+      search: true
+      contents:
+        - text: My Assignments
+          href: assignments.qmd
+        - text: Assignment-1
+          href: assignments/assignment-1.qmd
+        - text: Assignment-2
+          href: assignments/assignment-2.qmd
+  page-navigation: true
+  back-to-top-navigation: true
+  page-footer:
+    center: "Hacettepe IE - EMU430 - 2024 Fall" 
+    border: true
+    
+format:
+  html:
+    toc: true
+    toc-location: left
+    css: styles.css
+
+editor: visual
+

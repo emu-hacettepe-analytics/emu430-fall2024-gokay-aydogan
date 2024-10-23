@@ -1,0 +1,15 @@
+{
+  "hash": "ced22d193920949fe4b9e4dc166c34ed",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"GÖKAY AYDOĞAN\"\nabout:\n  template: jolla\n  image: PROF FOTO.jpg\n---\n\n\n\n\nHello! This is Gokay Aydogan's webpage.\n\nPlease stay tuned to follow my work!\n\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

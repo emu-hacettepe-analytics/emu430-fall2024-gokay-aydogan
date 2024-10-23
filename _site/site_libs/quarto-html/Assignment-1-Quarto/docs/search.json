@@ -1,0 +1,101 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "GOKAY AYDOGAN",
+    "section": "",
+    "text": "Hello! This is Gokay Aydogan’s webpage.\nPlease stay tuned to follow my work!\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "assignments/assignment-1.html",
+    "href": "assignments/assignment-1.html",
+    "title": "Assignment 1",
+    "section": "",
+    "text": "My first assignment has three parts.",
+    "crumbs": [
+      "Assignment-1"
+    ]
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "Download my CV"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About Me",
+    "section": "Education",
+    "text": "Education\n\nB.S., Industrial Engineering, Hacettepe University, Ankara/Turkey, 2019 - ongoing."
+  },
+  {
+    "objectID": "about.html#work-experiences",
+    "href": "about.html#work-experiences",
+    "title": "About Me",
+    "section": "Work Experiences",
+    "text": "Work Experiences\n\nEmployment\n\nCarowinds Theme Park, Admissions Associate, NC/USA, 2022\n\n\n\nInternships\n\nBRF, Summer Intern, 2024\nGüriş İnşaat ve Mühendislik A.Ş., Summer Intern, 2023\nSerdar Plastik ve Ambalaj Sanayi A.Ş., Summer Intern, 2021"
+  },
+  {
+    "objectID": "about.html#projects",
+    "href": "about.html#projects",
+    "title": "About Me",
+    "section": "Projects",
+    "text": "Projects\n\nİşbir Sünger Sanayi A.Ş., Graduation Project, 2024"
+  },
+  {
+    "objectID": "about.html#competencies",
+    "href": "about.html#competencies",
+    "title": "About Me",
+    "section": "Competencies",
+    "text": "Competencies\n\n\n\n\n\n\n\n\nSkills & Abilities\nTools and Softwares\nCertificates\n\n\n\n\nData Analytics\nSQL, Spreadsheets, Excel, Tableau, R, RStudio\nGoogle Data Analytics Professional Certificate - ongoing\n\n\nProgramming\nPython, R, Javascript\n\n\n\nDesign\nSolidWorks, Canva"
+  },
+  {
+    "objectID": "about.html#hobbies",
+    "href": "about.html#hobbies",
+    "title": "About Me",
+    "section": "Hobbies",
+    "text": "Hobbies\n\nFitness\nCamping\nFootball"
+  },
+  {
+    "objectID": "assignments.html",
+    "href": "assignments.html",
+    "title": "My Assignments",
+    "section": "",
+    "text": "On this page, I showcase the assignment I conducted for the Fall 2024 EMU430 Data Analytics course.\nPlease use the left menu to navigate through my assignments.\n\n\n\n Back to top",
+    "crumbs": [
+      "My Assignments"
+    ]
+  },
+  {
+    "objectID": "assignments/assignment-1.html#part-a",
+    "href": "assignments/assignment-1.html#part-a",
+    "title": "Assignment 1",
+    "section": "Part (a)",
+    "text": "Part (a)",
+    "crumbs": [
+      "Assignment-1"
+    ]
+  },
+  {
+    "objectID": "assignments/assignment-1.html#part-b",
+    "href": "assignments/assignment-1.html#part-b",
+    "title": "Assignment 1",
+    "section": "Part (b)",
+    "text": "Part (b)",
+    "crumbs": [
+      "Assignment-1"
+    ]
+  },
+  {
+    "objectID": "assignments/assignment-1.html#part-c",
+    "href": "assignments/assignment-1.html#part-c",
+    "title": "Assignment 1",
+    "section": "Part (c)",
+    "text": "Part (c)",
+    "crumbs": [
+      "Assignment-1"
+    ]
+  }
+]
